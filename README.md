@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pritish Prasant Sahoo</h1>
 <h3 align="center">A passionate and enthusiastic DEV.</h3>
 
-- 🌱 I’m currently learning **React-Native, CSS, Java-Script**
+- 🌱 I’m currently learning **Java-Script**
 
 - 📫 How to reach me **pps491415@gmail.com pritishprasantsahoo@gmail.com**
 
